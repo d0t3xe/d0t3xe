@@ -5,16 +5,16 @@
 
 🔐 **About Me**
 
-I'm an Offensive Security Enthusiast  with a strong passion for ethical hacking, threat analysis, and solving real-world security challenges. I’ve built my foundation through hands-on learning, cybersecurity certifications, and participation in CTF competitions.
+I'm an Offensive Security consultant  with a strong passion for ethical hacking, threat analysis, and solving real-world security challenges. I’ve built my foundation through hands-on learning, cybersecurity certifications, and participation in CTF competitions.
 
 ---
 
 📚 **Certifications & Training**
 
+- ✅ Certified Network Security Practitioner (CNSP)
 - ✅ Advanced Penetration Testing – Ehackify Cybersecurity Research and Training
-- ✅ Google IT Support Professional Certificate (Coursera)
 - ✅ IBM IT Fundamentals for Cybersecurity Specialization
-- ⌛ Certified AppSec Practitioner - SecOps (Upcoming)
+- ✅ Google IT Support Professional Certificate (Coursera)
 - ⌛ APIsec Certified Practitioner (ACP) (Upcoming)
 
 ---
@@ -24,7 +24,7 @@ I'm an Offensive Security Enthusiast  with a strong passion for ethical hacking,
 - Network and web application VAPT
 - Active Directory attacks & defenses    
 - Malware analysis and reverse engineering  
-- SOC and incident response basics
+- Android and IOS VAPT
 
 ---
 
